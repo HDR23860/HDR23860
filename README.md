@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Himansukumar Rathava from India. Foundation of my education consist upon undergraduation and graduation in Biotechnology, Business Management, and Artificial Intelligence from prestigious institutes of India and Germany.
+- 👀 I’m interested in learning and working on projects related to bioinformatics, population genetics, business case studies, and genomic data sciences.
+- 🌱 I’m currently learning Bioinformatics and genomic data science with artificial intelligence at Germany.
+- 💞️ I’m looking to collaborate on projects or case study related to healthcare marketing, population genetics, and genomic data science.
+- 📫 You can reach me via email (himanshurathava860@gmail.com) or LinkedIn (himansu-kumar-rathava).
+- ⚡ Fun fact: I love to read about history, culture, geopolitics, and literature in my spear time. Apart from that I am enthusiast about traveling and exploring old towns. 
